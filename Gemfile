@@ -4,7 +4,7 @@ gemspec
 gem "redcarpet", :platforms => :ruby
 gem "kramdown", :platforms => :jruby
 gem "RedCloth"
-gem "commonmarker", "~> 2.0.2"
+gem "commonmarker", "~> 1.1.0"
 gem "rdoc", "~> 6.7.0"
 gem "org-ruby", "0.9.12"
 gem "creole", "~>0.5.0"
